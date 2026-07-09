@@ -23,10 +23,6 @@
 - 🔐 Passionate about **cybersecurity**, threat detection, and building resilient systems
 - 🛠️ Built a **task management system deployed in an industrial environment** for 50+ users
 - 🧠 Currently exploring **adversarial machine learning** and **insider threat detection**
-- 🌱 Strong foundation in **Java, Python, C**, OOP, and DBMS fundamentals
-- 🏆 Participant, **Smart India Hackathon (SIH)**
-- 👦 Former **House Captain**, leading student teams across academics, sports & co-curriculars
-- ⚡ Fun fact: I enjoy turning messy real-world problems into clean, maintainable code
 
 ---
 
