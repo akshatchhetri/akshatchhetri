@@ -17,11 +17,24 @@
 
 ### About Me
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 - I'm a **Computer Science Engineering (Cybersecurity)** student at **UPES, Dehradun**
 - I build **secure, real-world mobile applications** using **Flutter** and **Firebase**
 - Passionate about **cybersecurity**, threat detection, and building resilient systems
 - Built a **task management system deployed in an industrial environment** for 50+ users
 - Currently exploring **adversarial machine learning** and **insider threat detection**
+
+</td>
+<td width="35%" valign="top" align="center">
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzV3OGFzc2R4ZTlmOXQxeHY0ajlrOXlyeHVkbmtkZmVtNXZ1b2JuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -53,7 +66,7 @@ An adversarial-aware two-layer detection system combining a baseline UEBA layer 
 
 ---
 
-###  Contribution Graph : Pac-Man Style
+### Contribution Graph : Pac-Man Style
 
 <p align="center">
   <picture>
@@ -61,12 +74,6 @@ An adversarial-aware two-layer detection system combining a baseline UEBA layer 
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gngscripter/gngscripter/output/pacman-contribution-graph.svg">
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/gngscripter/gngscripter/output/pacman-contribution-graph.svg">
   </picture>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzV3OGFzc2R4ZTlmOXQxeHY0ajlrOXlyeHVkbmtkZmVtNXZ1b2JuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400">
 </p>
 
 ---
