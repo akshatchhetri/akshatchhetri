@@ -53,7 +53,7 @@ An adversarial-aware two-layer detection system combining a baseline UEBA layer 
 
 ---
 
-### 🕹️ Contribution Graph — Pac-Man Style
+###  Contribution Graph : Pac-Man Style
 
 <p align="center">
   <picture>
