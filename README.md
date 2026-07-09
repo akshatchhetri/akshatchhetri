@@ -58,11 +58,33 @@
 
 ### Featured Projects
 
-**[Work Sync](https://github.com/gngscripter/new_app)** — *Flutter, Firebase*
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Work Sync](https://github.com/gngscripter/new_app)**
+
 A mobile task management system with real-time database updates, task assignment/tracking, and secure authentication, built with a clean, modular architecture.
 
-**[Layered Insider Threat Detection System](https://github.com/gngscripter/Insider_threat_detection)** — *Python, Scikit-learn, FastAPI, React*
-An adversarial-aware two-layer detection system combining a baseline UEBA layer (Isolation Forest, One-Class SVM, PCA Autoencoder) with a meta-detection layer for evasion detection. Achieved **ROC-AUC of 0.94** and boosted recall from 0.17 to 0.77 via score fusion, with a FastAPI backend and React SOC dashboard.
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+
+</td>
+<td width="50%" valign="top">
+
+**[Layered Insider Threat Detection System](https://github.com/gngscripter/Insider_threat_detection)**
+
+An adversarial-aware two-layer detection system combining a baseline UEBA layer with a meta-detection layer for evasion detection. Achieved **ROC-AUC of 0.94** and boosted recall from 0.17 to 0.77 via score fusion.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+
+</td>
+</tr>
+</table>
 
 ---
 
