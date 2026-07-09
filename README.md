@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Akshat Chhetri 👋</h1>
+<h1 align="center">Hi there 👋, I'm Akshat Chhetri </h1>
 
-<h3 align="center">Cybersecurity-focused CSE Student | Flutter & Firebase Developer | Problem Solver</h3>
+<h3 align="center">Cybersecurity-focused CSE Student | Flutter & Firebase Developer </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/akshatchhetri" target="_blank">
@@ -16,17 +16,17 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🎓 I'm a **Computer Science Engineering (Cybersecurity)** student at **UPES, Dehradun**
-- 📱 I build **secure, real-world mobile applications** using **Flutter** and **Firebase**
-- 🔐 Passionate about **cybersecurity**, threat detection, and building resilient systems
-- 🛠️ Built a **task management system deployed in an industrial environment** for 50+ users
-- 🧠 Currently exploring **adversarial machine learning** and **insider threat detection**
+-  I'm a **Computer Science Engineering (Cybersecurity)** student at **UPES, Dehradun**
+-  I build **secure, real-world mobile applications** using **Flutter** and **Firebase**
+-  Passionate about **cybersecurity**, threat detection, and building resilient systems
+-  Built a **task management system deployed in an industrial environment** for 50+ users
+-  Currently exploring **adversarial machine learning** and **insider threat detection**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -44,17 +44,17 @@
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
-**🔹 [Work Sync](https://github.com/gngscripter/new_app)** — *Flutter, Firebase*
+** [Work Sync](https://github.com/gngscripter/new_app)** — *Flutter, Firebase*
 A mobile task management system with real-time database updates, task assignment/tracking, and secure authentication, built with a clean, modular architecture.
 
-**🔹 [Layered Insider Threat Detection System](https://github.com/gngscripter/Insider_threat_detection)** — *Python, Scikit-learn, FastAPI, React*
+** [Layered Insider Threat Detection System](https://github.com/gngscripter/Insider_threat_detection)** — *Python, Scikit-learn, FastAPI, React*
 An adversarial-aware two-layer detection system combining a baseline UEBA layer (Isolation Forest, One-Class SVM, PCA Autoencoder) with a meta-detection layer for evasion detection. Achieved **ROC-AUC of 0.94** and boosted recall from 0.17 to 0.77 via score fusion, with a FastAPI backend and React SOC dashboard.
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=gngscripter&show_icons=true&theme=tokyonight&hide_border=true" />
