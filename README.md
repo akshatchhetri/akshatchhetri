@@ -8,7 +8,7 @@
   <a href="mailto:aksh64617@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/gngscripter" target="_blank">
+  <a href="https://github.com/akshatchhetri" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -64,7 +64,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**[Work Sync](https://github.com/gngscripter/new_app)**
+**[Work Sync](https://github.com/akshatchhetri/new_app)**
 
 A mobile task management system with real-time database updates, task assignment/tracking, and secure authentication, built with a clean, modular architecture.
 
@@ -75,7 +75,7 @@ A mobile task management system with real-time database updates, task assignment
 </td>
 <td width="50%" valign="top">
 
-**[Layered Insider Threat Detection System](https://github.com/gngscripter/Insider_threat_detection)**
+**[Layered Insider Threat Detection System](https://github.com/akshatchhetri/Insider_threat_detection)**
 
 An adversarial-aware two-layer detection system combining a baseline UEBA layer with a meta-detection layer for evasion detection. Achieved **ROC-AUC of 0.94** and boosted recall from 0.17 to 0.77 via score fusion.
 
@@ -94,9 +94,9 @@ An adversarial-aware two-layer detection system combining a baseline UEBA layer 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gngscripter/gngscripter/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gngscripter/gngscripter/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/gngscripter/gngscripter/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshatchhetri/akshatchhetri/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshatchhetri/akshatchhetri/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/akshatchhetri/akshatchhetri/output/pacman-contribution-graph.svg">
   </picture>
 </p>
 
@@ -105,12 +105,12 @@ An adversarial-aware two-layer detection system combining a baseline UEBA layer 
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=gngscripter&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gngscripter&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=akshatchhetri&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=akshatchhetri&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gngscripter&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatchhetri&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
